@@ -1,5 +1,5 @@
 # Sales-and-Inventory-Analysis-Dashboard
-sales &amp; Inventory Analysis Dashboard built with Power BI to provide actionable insights into sales performance, inventory management, and product demand trends.
+Sales & Inventory Analysis Dashboard built with Power BI to provide actionable insights into sales performance, inventory management, and product demand trends.
 ## 📌 Project Overview
 This project is a **Sales & Inventory Analysis Dashboard** built in **Power BI**.  
 The dashboard provides actionable insights into **sales performance, product demand, and inventory management**, enabling businesses to optimize supply chain efficiency and improve revenue growth.  
